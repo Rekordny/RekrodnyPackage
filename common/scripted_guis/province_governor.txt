@@ -1,0 +1,85 @@
+scripted_gui = {
+	fuhrer_mana_self_state_powers = {
+	
+		context_type = selected_state_context
+		
+		window_name = "province_governor_container"
+		visible = {
+			#has_completed_focus = POL_cauldron_tankathlon_tournament
+			is_controlled_by = ROOT
+		}
+		
+		effects = {
+			province_governor_add_steel_click = {
+				add_resource = {
+					type = steel
+					amount = 5
+				}
+				ROOT = { 
+					add_timed_idea = { idea = Adding_resources_generic days = 90 } 
+					add_to_variable = { ROOT.ssdp = -80 }
+				}
+			}
+			province_governor_add_aluminum_click = {
+				add_resource = {
+					type = aluminum
+					amount = 4
+				}
+				ROOT = { 
+					add_timed_idea = { idea = Adding_resources_generic days = 90 } 
+					add_to_variable = { ROOT.ssdp = -80 }
+				}
+			}
+			province_governor_add_tungsten_click = {
+				add_resource = {
+					type = tungsten
+					amount = 4
+				}
+				ROOT = { 
+					add_timed_idea = { idea = Adding_resources_generic days = 90 } 
+					add_to_variable = { ROOT.ssdp = -80 }
+				}
+			}
+			province_governor_add_chromium_click = {
+				add_resource = {
+					type = chromium
+					amount = 3
+				}
+				ROOT = { 
+					add_timed_idea = { idea = Adding_resources_generic days = 90 } 
+					add_to_variable = { ROOT.ssdp = -80 }
+				}
+			}
+			province_governor_senshado_click = {
+				# ROOT = {
+				# 	clear_variable = ssdp
+				# 	add_to_variable = { ssdp = manpower }
+				# }
+			}
+		}
+
+		
+		
+		triggers = {
+			province_governor_add_steel_click_enabled = {
+				check_variable = { ROOT.ssdp > 79.999 }
+				ROOT = { NOT = { has_idea = Adding_resources_generic } }
+			}
+			province_governor_add_tungsten_click_enabled = {
+				check_variable = { ROOT.ssdp > 79.999 }
+				ROOT = { NOT = { has_idea = Adding_resources_generic } }
+			}
+			province_governor_add_aluminum_click_enabled = {
+				check_variable = { ROOT.ssdp > 79.999 }
+				ROOT = { NOT = { has_idea = Adding_resources_generic } }
+			}
+			province_governor_add_chromium_click_enabled = {
+				check_variable = { ROOT.ssdp > 79.999 }
+				ROOT = { NOT = { has_idea = Adding_resources_generic } }
+			}
+		}
+		
+	}
+	
+}
+

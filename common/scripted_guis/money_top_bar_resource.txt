@@ -1,0 +1,11 @@
+scripted_gui = {
+	money = {
+		context_type = player_context
+		parent_window_token = top_bar
+		window_name = "money_container"
+		visible = {
+            always = yes
+		}
+	}
+}
+

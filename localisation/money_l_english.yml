@@ -1,0 +1,4 @@
+﻿l_english:
+ MONEY_MAIN:0"[?ssdp]"
+ MONEY_TOOLTIP:0 "§YSenshado Point§!\n\nCurrent point: §Y[?ssdp]§!\n\n"
+ MONEY_TOOLTIP_DELAYED:0 "Senshado Point can only be unlock by special focus and you can only gain it via focus, event and special decision, you can spend these point in decisions as well."

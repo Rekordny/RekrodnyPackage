@@ -1,0 +1,33 @@
+﻿l_english:
+ senshado_events.1.t:0 "Welcome to Rekordny's package"
+ senshado_events.1.d:0 "Hello, I am Rekordny, the developer of this mod package. This mod consists of several different parts including the new reinforced focus tree, music, ui, characters and events base on anime Girls und Panzer theme. This is version English, I am still working on completing this huge mod, the Chinese version will be a bit behind but update slowly as well. Thank you for supporting and enjoy."
+ senshado_events.1.c1:0 "Got it"
+
+ senshado_events.2.t:0 "The Rebuild of Bonple High School"
+ senshado_events.2.d:0 "After massive efforts, we finally made to rebuild the bonple high school in Poland. Two great leaders - Jajka and Maiko has returned, our students are looking forward to rebuild senshado in campus as well!"
+ senshado_events.2.c1:0 "Great!"
+
+ senshado_events.3.t:0 "We did not manage to recruit anyone"
+ senshado_events.3.d:0 "Unfortunately, we failed to recruit people from senshado tournament. However, we can still try to recruit again, the invested senshado point is automatically transformed into 10 army experience.(Recruiting more people will increase the happening chance of this event)"
+ senshado_events.3.c1:0 "Uh, bad luck."
+
+ senshado_events.4.t:0 "Recruit success!"
+ senshado_events.4.d:0 "Good news. One from the senshado tournament just willing to join us.(Recruit function will be available after 180 days)"
+ senshado_events.4.c1:0 "Let us build a better future!"
+
+ senshado_events.5.t:0 "We did not manage to recruit anyone"
+ senshado_events.5.d:0 "Unfortunately, we failed to recruit people from senshado tournament. However, we can still try to recruit again, the invested senshado point is automatically transformed into 10 navy experience.(Recruiting more people will increase the happening chance of this event)"
+ senshado_events.5.c1:0 "Uh, bad luck."
+
+ senshado_events.6.t:0 "Bonple High School ask for Burma area"
+ senshado_events.6.d:0 "Bonple High School ask for Burma area"
+ senshado_events.6.c1:0 "Give them."
+ senshado_events.6.c2:0 "We must refuse."
+
+ senshado_events.7.t:0 "Burma highschool is here"
+ senshado_events.7.d:0 "We successfully merged Burma high school, we now have one of the best shore of Asia."
+ senshado_events.7.c1:0 "Way to go."
+
+ senshado_events.8.t:0 "Burma high school refuse to merge"
+ senshado_events.8.d:0 "Burma high school refused to join us."
+ senshado_events.8.c1:0 "War is the only solution."

@@ -1,0 +1,20 @@
+﻿l_english:
+ #ideas
+ POL_cuisine:0 "Polish traditional cuisine"
+ POL_tankathlon_spirit:0 "Tankathlon spirit"
+ POL_exchange_student:0 "Exchange student"
+ POL_tiny_senshado:0 "Tiny Sensha-do"
+ POL_prepare_for_tankathlon:0 "Prepare for Tankathlon"
+ Adding_resources_generic:0 "Develop local resources"
+
+ #decisions
+ senshado_decisions:0 "Sensha-do"
+ 
+ #tech
+ military_police_tech:0 "Military Police"
+
+ #province governor UI
+ PROVINCE_GOVERNOR_ADD_STEEL:0 "Use §G80 ssdp§! to develop §Y5 steel§! in this province. \n Gains National Spirit §YDevelop local resources§! which grants (Daily Political Power: §R-0.3§!, Consumer Goods Factory: §Y5%§!) for §Y100§! days."
+ PROVINCE_GOVERNOR_ADD_ALUMINUM:0 "Use §G80 ssdp§! to develop §Y4 aluminum§! in this province. \n Gains National Spirit §YDevelop local resources§! which grants (Daily Political Power: §R-0.3§!, Consumer Goods Factory: §Y5%§!) for §Y100§! days."
+ PROVINCE_GOVERNOR_ADD_TUNGSTEN:0 "Use §G80 ssdp§! to develop §Y4 tungsten§! in this province. \n Gains National Spirit §YDevelop local resources§! which grants (Daily Political Power: §R-0.3§!, Consumer Goods Factory: §Y5%§!) for §Y100§! days."
+ PROVINCE_GOVERNOR_ADD_CHROMIUM:0 "Use §G80 ssdp§! to develop §Y3 chromium§! in this province. \n Gains National Spirit §YDevelop local resources§! which grants (Daily Political Power: §R-0.3§!, Consumer Goods Factory: §Y5%§!) for §Y100§! days."
